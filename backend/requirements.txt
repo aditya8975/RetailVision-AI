@@ -1,0 +1,21 @@
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+sqlalchemy==2.0.35
+psycopg2-binary==2.9.9
+python-multipart==0.0.12
+pillow==10.4.0
+numpy==1.26.4
+pydantic==2.9.2
+pydantic-settings==2.5.2
+python-dotenv==1.0.1
+
+# Computer vision / ML
+torch==2.4.1
+torchvision==0.19.1
+transformers==4.45.2
+ultralytics==8.3.28
+rembg==2.0.59
+onnxruntime==1.19.2
+opencv-python-headless==4.10.0.84
+easyocr==1.7.2
+scikit-learn==1.5.2
