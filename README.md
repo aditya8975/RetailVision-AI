@@ -1,7 +1,7 @@
 # Lattice — AI Product Image Intelligence Platform
 
-A self-hosted version of the core pipeline behind catalog-automation platforms
-like Vue.ai: upload a product photo and get attribute detection, an AI-written
+A self-hosted version of the core pipeline behind catalog-automation platforms: 
+upload a product photo and get attribute detection, an AI-written
 description, background removal, an image-quality score, OCR on printed
 labels, and visual (image-to-image) search — plus a dashboard over the whole
 catalog.
