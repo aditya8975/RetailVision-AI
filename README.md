@@ -1,4 +1,4 @@
-# Lattice — AI Product Image Intelligence Platform
+# AI Product Image Intelligence Platform
 
 A self-hosted version of the core pipeline behind catalog-automation platforms: 
 upload a product photo and get attribute detection, an AI-written
