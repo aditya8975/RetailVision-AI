@@ -6,6 +6,37 @@ description, background removal, an image-quality score, OCR on printed
 labels, and visual (image-to-image) search — plus a dashboard over the whole
 catalog.
 
+---
+![Project Home](images/p1.png)
+---
+
+---
+![Project Home](images/p2.png)
+---
+
+---
+![Project Home](images/p3.png)
+---
+
+---
+![Project Home](images/p4.png)
+---
+
+---
+![Project Home](images/p5.png)
+---
+
+---
+![Project Home](images/p6.png)
+---
+
+---
+![Project Home](images/p7.png)
+---
+
+
+
+
 ## What it actually does (and how)
 
 | Feature | Model / technique | Notes |
